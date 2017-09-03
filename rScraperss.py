@@ -1,18 +1,35 @@
-def dbwrite(usn, name, pc, sgpa, f):
+def dbwrite(usn, name, pc, sem, sgpa, f, ia, ea, tm, g, scodes):
 
-    conn = sqlite3.connect('db3.sqlite')
+    conn = sqlite3.connect(filename)
     cur = conn.cursor()
 
-    cur.execute('''
-    CREATE TABLE IF NOT EXISTS `Marks` (
+    sem = 'Sem' + str(sem)
+    query = '''
+    CREATE TABLE IF NOT EXISTS {} (
     	`USN`	TEXT NOT NULL PRIMARY KEY UNIQUE,
     	`NAME`	TEXT,
     	`PC`	REAL,
     	`SGPA`	REAL,
-      'Fail'  INTEGER
-    )''')
+        'Fail'  INTEGER
+    )'''.format(sem)
+    cur.execute(query)
+    query = '''INSERT OR REPLACE INTO {} (USN, NAME, PC, SGPA, Fail) VALUES (?, ?, ?, ?, ?)'''.format(sem)
+    cur.execute(query, (usn, name, pc, sgpa, f))
 
-    cur.execute('''INSERT OR REPLACE INTO Marks (USN, NAME, PC, SGPA, Fail) VALUES (?, ?, ?, ?, ?)''', (usn, name, pc, sgpa, f))
+    for i in range(len(scodes)):
+            query = '''
+            CREATE TABLE IF NOT EXISTS {} (
+            	`USN`	TEXT NOT NULL PRIMARY KEY UNIQUE,
+            	`IA`	INTEGER,
+            	`EA`	INTEGER,
+            	`TM`	INTEGER,
+                'GRADE'  INTEGER
+            )'''.format(scodes[i])
+            cur.execute(query)
+
+            query = '''INSERT OR REPLACE INTO {} (USN, IA, EA, TM, GRADE) VALUES (?, ?, ?, ?, ?)'''.format(scodes[i])
+            cur.execute(query, (usn, ia[i], ea[i], tm[i], g[i]))
+
 
     conn.commit()
     cur.close()
@@ -53,7 +70,10 @@ def getd(url):
     usn = usn.rstrip()
     usn = usn.upper()
 
-    #scodes = re.findall("([0-9]{2,}[A-Z]{3,}[0-9]{2,})",text)
+    ssscodes = re.findall("([0-9]{2,}[A-Z]{3,}[0-9]{2,})",text)
+    sscodes = ''.join(ssscodes)
+    scodes = re.findall("[0-9]{1,2}([A-Z]+[0-9]{1,2})", sscodes)
+
     sub = re.findall("([0-9]{2,}[A-Z]{3,}[0-9]{2,}.+[PF]\s{5,}?)",text)
     mks = re.findall("[0-9]{1,2} [0-9]{1,2} [0-9]{1,3} [PFA]",text)
     mks = ' '.join(mks)
@@ -144,8 +164,7 @@ def getd(url):
         sgpa = (g[0]*4 + g[1]*4 + g[2]*3 + g[3]*2 + g[4]*6 + g[5]*1)/20
         sgpa = round(sgpa,2)
 
-
-    dbwrite(usn, name, pc, sgpa, f)
+    dbwrite(usn, name, pc, sem, sgpa, f, ia, ea, tm, g, scodes)
 
     print(pc, '%')
     print("Semester", sem)
@@ -168,6 +187,7 @@ ci = input('Enter College ID ')
 yr = input('Enter Batch year ')
 br = input('Enter Branch ID ')
 ran = int(input('Enter starting USN '))
+filename = '1' + ci + yr + '.sqlite'
 
 k = ran
 flag = 0
@@ -200,4 +220,6 @@ while k <= 180:
         else:
             continue
 
-import exp #Generates txt database
+from exp import expwrite #Generates txt database
+table = 'Sem2'
+expwrite(filename, table)
