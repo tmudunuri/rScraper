@@ -1,0 +1,533 @@
+Results
++------------+------------------------------------+---------+------+------+
+|    USN     | NAME                               | Percent | SGPA | Fail |
++------------+------------------------------------+---------+------+------+
+| 1BY16IS006 | Amrit Raj                          |   75.25 | 8.08 |  0   |
+| 1BY16IS007 | Anirudh R S                        |   86.92 | 9.17 |  0   |
+| 1BY16IS008 | Anup G R                           |   31.08 | 1.83 |  7   |
+| 1BY16IS009 | Ayushman Vardhan                   |    27.5 | 0.58 |  7   |
+| 1BY16IS010 | Chaitanyalakshmi P M               |   80.33 | 8.42 |  0   |
+| 1BY16IS011 | D C Tushara                        |   70.42 | 7.67 |  0   |
+| 1BY16IS012 | Gaurav Sarraf                      |   62.42 | 5.58 |  3   |
+| 1BY16IS013 | Geetha Priya N                     |   72.58 | 7.92 |  0   |
+| 1BY16IS014 | Hari Prasad V                      |   51.58 | 4.5  |  3   |
+| 1BY16IS015 | Harshit                            |   58.33 | 6.58 |  0   |
+| 1BY16IS016 | Harshithaa M                       |   71.92 | 7.83 |  0   |
+| 1BY16IS017 | Ishaan Basavaraj Gonnagar          |   86.25 | 9.17 |  0   |
+| 1BY16IS018 | Jayam Sukruth                      |   79.75 | 8.5  |  0   |
+| 1BY16IS019 | Jhanvi Verma                       |   84.33 | 9.0  |  0   |
+| 1BY16IS020 | Jyothi S                           |    85.5 | 9.33 |  0   |
+| 1BY16IS021 | M Praneeth                         |    80.0 | 8.75 |  0   |
+| 1BY16IS022 | Maitri Hegde                       |   77.25 | 8.33 |  0   |
+| 1BY16IS023 | Mohammad Aaqib Javed Z             |   62.58 | 6.92 |  0   |
+| 1BY16IS024 | Mrinal Ranjan                      |   72.42 | 7.92 |  0   |
+| 1BY16IS025 | Murali R                           |   60.92 | 6.5  |  0   |
+| 1BY16IS026 | Mythri K                           |   41.58 | 3.33 |  4   |
+| 1BY16IS027 | Nikitha K E                        |   37.17 | 2.08 |  5   |
+| 1BY16IS028 | Nithesh Raj B                      |    69.0 | 7.33 |  0   |
+| 1BY16IS029 | Pallavi M                          |    80.5 | 8.83 |  0   |
+| 1BY16IS030 | Pragya Arora                       |   84.33 | 8.75 |  0   |
+| 1BY16IS031 | Prakhar Dewan                      |    47.5 | 4.83 |  4   |
+| 1BY16IS032 | Pratik Lokesh                      |   80.92 | 8.67 |  0   |
+| 1BY16IS033 | Rakesh A S                         |   60.42 | 6.5  |  0   |
+| 1BY16IS034 | Raksha R                           |   86.75 | 9.33 |  0   |
+| 1BY16IS035 | Rema V                             |   82.17 | 8.67 |  0   |
+| 1BY16IS036 | Rohit                              |   65.17 | 7.0  |  0   |
+| 1BY16IS037 | Ruchitha V                         |   90.83 | 9.33 |  0   |
+| 1BY16IS038 | S Sai Keerthi                      |   41.33 | 2.17 |  5   |
+| 1BY16IS039 | Sagar Devaraju                     |   60.83 | 5.83 |  2   |
+| 1BY16IS040 | Sankarabanda Tagore Chowdary       |   50.58 | 5.83 |  1   |
+| 1BY16IS041 | Shashank Singh                     |   82.92 | 8.67 |  0   |
+| 1BY16IS042 | Shilpa Acharya                     |    82.0 | 8.75 |  0   |
+| 1BY16IS043 | Shishir Shetty                     |   80.83 | 8.58 |  0   |
+| 1BY16IS044 | Shivanand Bhajantri                |    23.0 | 0.0  |  8   |
+| 1BY16IS045 | Shravani J                         |    51.5 | 5.58 |  0   |
+| 1BY16IS046 | Shree Pooja H                      |   53.42 | 6.0  |  0   |
+| 1BY16IS047 | Shreeja Indudhara                  |   69.33 | 7.58 |  0   |
+| 1BY16IS048 | Shreya Raj                         |   62.92 | 7.0  |  0   |
+| 1BY16IS049 | Shubham                            |   77.25 | 8.25 |  0   |
+| 1BY16IS050 | Shubham Anand                      |   61.08 | 6.58 |  0   |
+| 1BY16IS051 | Sneha Yadav V                      |   50.17 | 5.5  |  1   |
+| 1BY16IS052 | Sripriya S Koya                    |   56.83 | 5.67 |  3   |
+| 1BY16IS053 | Sumedha K                          |   43.25 | 3.17 |  4   |
+| 1BY16IS054 | Surya                              |   77.58 | 8.17 |  0   |
+| 1BY16IS055 | Swathi P                           |   84.92 | 9.0  |  0   |
+| 1BY16IS056 | Tejashwini Prakash                 |   54.83 | 5.5  |  2   |
+| 1BY16IS057 | Thrivikram Mudunuri                |   85.83 | 8.92 |  0   |
+| 1BY16IS058 | V Manish M Shetty                  |   69.92 | 7.42 |  0   |
+| 1BY16IS059 | Veda Shree S                       |   67.08 | 7.17 |  0   |
+| 1BY16IS060 | Vinutha S N                        |   86.17 | 8.92 |  0   |
+| 1BY16IS061 | Vishwas S Desai                    |   70.33 | 7.5  |  0   |
+| 1BY16IS062 | Yashaswini S                       |   82.83 | 8.58 |  0   |
+| 1BY16IS063 | Tabassum Sarwar                    |   85.58 | 9.17 |  0   |
+| 1BY16IS064 | Anisha Kumari                      |   72.58 | 7.92 |  0   |
+| 1BY16IS066 | Kshitija Chandra Tammireddi        |   22.25 | 0.5  |  7   |
+| 1BY16IS067 | Nikhil Agrawal                     |   35.33 | 1.58 |  9   |
+| 1BY16IS068 | Nikhil Khanal                      |   63.92 | 6.33 |  1   |
+| 1BY16IS069 | Rahul Shah                         |    62.5 | 6.83 |  0   |
+| 1BY16IS070 | Roshan Jagwani                     |   73.92 | 8.0  |  0   |
+| 1BY16IS071 | Sakshi Agarwal                     |   65.92 | 7.17 |  0   |
+| 1BY16ME002 | Aby J Kottoor                      |   81.67 | 8.67 |  0   |
+| 1BY16ME003 | Aditya Singh Thakur                |   38.42 | 2.0  |  4   |
+| 1BY16ME004 | Adnan Ahmed Khan                   |   73.75 | 8.0  |  0   |
+| 1BY16ME005 | Adnan Kashif                       |   39.42 | 3.0  |  5   |
+| 1BY16ME007 | Akash S Nambiar                    |   72.58 | 7.75 |  0   |
+| 1BY16ME008 | Anupam Ajit Deshpande              |    60.5 | 6.67 |  0   |
+| 1BY16ME009 | Arpit Thakur                       |   58.92 | 6.42 |  0   |
+| 1BY16ME010 | Arun D                             |   88.08 | 9.58 |  0   |
+| 1BY16ME011 | Arun Kumar Naik                    |   65.75 | 7.08 |  0   |
+| 1BY16ME012 | Ashutosh Mishra                    |   74.92 | 8.0  |  0   |
+| 1BY16ME013 | C Aniruddha                        |   69.83 | 7.67 |  0   |
+| 1BY16ME014 | Chagam Nagarjun Reddy              |   58.33 | 6.25 |  0   |
+| 1BY16ME015 | Chandan Kumar                      |   10.75 | 0.0  |  14  |
+| 1BY16ME016 | Chirayu Murali Urs                 |   57.83 | 6.5  |  0   |
+| 1BY16ME017 | Daksh Pathak                       |    32.5 | 1.58 |  9   |
+| 1BY16ME018 | Devaraju G N                       |   81.58 | 8.67 |  0   |
+| 1BY16ME019 | Edwin Easo Mathew                  |   78.42 | 8.42 |  0   |
+| 1BY16ME020 | Gagan M G                          |   68.67 | 7.42 |  0   |
+| 1BY16ME021 | Gokuldeekshith G S                 |    48.5 | 4.08 |  2   |
+| 1BY16ME022 | Gurunathagouda Sotakanal           |   73.58 | 7.92 |  0   |
+| 1BY16ME023 | Hariharan K                        |   59.17 | 6.0  |  1   |
+| 1BY16ME024 | Harsha Venkatraman Shetty          |    55.5 | 6.17 |  0   |
+| 1BY16ME025 | Hemanth Kumar S                    |   63.25 | 6.83 |  0   |
+| 1BY16ME026 | Hrishi S                           |   36.17 | 2.92 |  8   |
+| 1BY16ME027 | Jalaj Thamman                      |   29.42 | 1.83 |  8   |
+| 1BY16ME028 | Jaswanth L G                       |   51.42 | 5.75 |  0   |
+| 1BY16ME029 | Jawahar M Vadingadu                |   62.33 | 6.17 |  1   |
+| 1BY16ME030 | K Suyog                            |   60.08 | 6.42 |  0   |
+| 1BY16ME031 | Kamanur Gowtham Sai                |   36.42 | 2.5  |  4   |
+| 1BY16ME032 | Kaushik Balasundar                 |   77.75 | 8.42 |  0   |
+| 1BY16ME033 | Ken P J Surrao                     |   28.08 | 0.67 |  6   |
+| 1BY16ME034 | Kshitij Kumar Bhanu                |    27.0 | 1.42 |  10  |
+| 1BY16ME035 | Madhu Sudhan M N                   |   47.08 | 3.83 |  2   |
+| 1BY16ME036 | Malepati Naga Sai Ritesh           |   55.08 | 5.5  |  1   |
+| 1BY16ME037 | Manu A K                           |   36.25 | 2.92 |  5   |
+| 1BY16ME038 | Mehul Badyal                       |   50.25 | 5.67 |  0   |
+| 1BY16ME040 | Parth Misra                        |   83.92 | 8.75 |  0   |
+| 1BY16ME041 | Pranay S R                         |   55.67 | 6.17 |  0   |
+| 1BY16ME042 | Prasidh Maniken                    |   64.42 | 7.08 |  0   |
+| 1BY16ME043 | Prateek Bali                       |   57.92 | 5.83 |  1   |
+| 1BY16ME044 | Puppala Chanukya                   |   35.33 | 2.0  |  4   |
+| 1BY16ME045 | Rahul Aradhya B N                  |   63.67 | 6.83 |  0   |
+| 1BY16ME046 | Ranvir Singh Chauhan               |   32.08 | 2.0  |  8   |
+| 1BY16ME047 | Rushil Praveen                     |   41.83 | 3.67 |  2   |
+| 1BY16ME048 | Sanjay S                           |   64.83 | 7.0  |  0   |
+| 1BY16ME049 | Sathish Kanna S                    |    84.5 | 8.92 |  0   |
+| 1BY16ME050 | Shadaab Khan                       |   30.92 | 1.92 |  6   |
+| 1BY16ME051 | Shailesh H Raju                    |   68.25 | 7.42 |  0   |
+| 1BY16ME052 | Shankar Hanamant Nadageri          |   65.92 | 7.0  |  0   |
+| 1BY16ME053 | Shashank Kumar                     |   16.17 | 0.0  |  10  |
+| 1BY16ME054 | Shivpavan H                        |    40.0 | 2.75 |  4   |
+| 1BY16ME055 | Shobhit Chourasia                  |    60.0 | 6.5  |  0   |
+| 1BY16ME056 | Simhika Parambathe Veed            |   45.42 | 4.67 |  3   |
+| 1BY16ME057 | Sooraj Krishnan V                  |   74.92 | 8.0  |  0   |
+| 1BY16ME058 | Srujan T U                         |   50.67 | 4.92 |  2   |
+| 1BY16ME059 | Udhab Gogoi                        |    8.75 | 0.0  |  11  |
+| 1BY16ME061 | Vivek Lalwani                      |   50.42 | 4.83 |  1   |
+| 1BY16ME062 | Bed Prakash Singh                  |   61.58 | 6.75 |  0   |
+| 1BY16ME063 | Biwek Poudel                       |   63.17 | 6.83 |  0   |
+| 1BY16ME064 | Dhanush Natampalli                 |   39.92 | 2.17 |  5   |
+| 1BY16ME065 | Namnit Kumar Sah                   |   69.42 | 7.5  |  0   |
+| 1BY16ME066 | Shaurya Joshi                      |   69.08 | 7.58 |  0   |
+| 1BY16ME067 | Vikash Kumar Mishra                |   19.67 | 0.67 |  11  |
+| 1BY16ME068 | Kevin Ravi Kumar                   |   58.58 | 6.5  |  0   |
+| 1BY16ME001 | Abhishek S A                       |   62.75 | 7.0  |  0   |
+| 1BY16CS001 | Aakanksha Das                      |   81.33 | 8.83 |  0   |
+| 1BY16CS002 | Aishwarya C                        |   46.92 | 4.25 |  3   |
+| 1BY16CS003 | Aishwarya H                        |    61.5 | 6.67 |  1   |
+| 1BY16CS004 | Akarsh S                           |   70.08 | 7.67 |  0   |
+| 1BY16CS005 | Akshay Narain Singh                |   71.58 | 7.58 |  0   |
+| 1BY16CS006 | Akshay Padesur                     |   64.42 | 7.0  |  0   |
+| 1BY16CS007 | Akshay Sadhu                       |   81.67 | 8.58 |  0   |
+| 1BY16CS008 | Amrutha R                          |   78.33 | 8.25 |  0   |
+| 1BY16CS009 | Amulya                             |    88.0 | 9.25 |  0   |
+| 1BY16CS010 | Anand Gaurav                       |   74.67 | 7.83 |  0   |
+| 1BY16CS011 | Ankith M Dhanapathi                |   69.25 | 7.42 |  0   |
+| 1BY16CS012 | Anup Kumar Shetty                  |   81.58 | 8.67 |  0   |
+| 1BY16CS013 | Apoorva S V                        |   74.92 | 8.0  |  0   |
+| 1BY16CS014 | Arlagadda Vijaya Sai Mythili       |   77.75 | 8.25 |  0   |
+| 1BY16CS015 | Arpitha G                          |    79.0 | 8.33 |  0   |
+| 1BY16CS016 | Atish Shet                         |   63.83 | 6.92 |  0   |
+| 1BY16CS017 | B M Chaitra                        |   65.67 | 7.08 |  1   |
+| 1BY16CS018 | B V Divya                          |   76.58 | 8.08 |  0   |
+| 1BY16CS019 | Bibhu Ranjan                       |   54.83 | 5.5  |  1   |
+| 1BY16CS020 | Bindu B                            |    72.5 | 7.67 |  0   |
+| 1BY16CS021 | C G Neha                           |   71.92 | 7.58 |  0   |
+| 1BY16CS023 | Chandana Yadav S                   |   80.33 | 8.42 |  0   |
+| 1BY16CS024 | D N Hemanth Kumar                  |   75.83 | 8.08 |  0   |
+| 1BY16CS025 | Darshan R S                        |    74.5 | 8.0  |  0   |
+| 1BY16CS026 | Devalla Praveen Kumar              |   47.67 | 4.83 |  1   |
+| 1BY16CS027 | Dhawal Negi                        |   74.17 | 8.08 |  0   |
+| 1BY16CS028 | Dinesh G                           |   70.58 | 7.67 |  0   |
+| 1BY16CS029 | Divya S                            |   81.25 | 8.75 |  0   |
+| 1BY16CS030 | Divya Y M                          |   69.83 | 7.42 |  0   |
+| 1BY16CS031 | Drishti Ramesh Megalmani           |   87.25 | 9.17 |  0   |
+| 1BY16CS032 | Faisal Mukhtar                     |   84.25 | 8.92 |  0   |
+| 1BY16CS033 | Garima Sharma                      |   76.08 | 8.17 |  0   |
+| 1BY16CS034 | Ghanta Om Prakash                  |    51.5 | 3.83 |  5   |
+| 1BY16CS035 | Gummalla Sai Monish Reddy          |   16.33 | 0.42 |  7   |
+| 1BY16CS036 | H S Bhargav                        |   24.67 | 1.42 |  8   |
+| 1BY16CS037 | Iyer Saikrishnan Srinivas          |   77.33 | 8.25 |  0   |
+| 1BY16CS038 | Jatin Sohane                       |    75.5 | 8.17 |  0   |
+| 1BY16CS039 | K Prathusha                        |   68.33 | 7.33 |  0   |
+| 1BY16CS040 | K Tharun Reddy                     |   43.33 | 3.5  |  5   |
+| 1BY16CS041 | Kolla Harsha Manoj                 |   76.42 | 8.25 |  0   |
+| 1BY16CS042 | Kotha Narender Goud                |   33.92 | 2.25 |  6   |
+| 1BY16CS043 | Laalithya A                        |   85.83 | 9.17 |  0   |
+| 1BY16CS044 | Lionel Melrick Rodrigues           |   52.17 | 5.58 |  1   |
+| 1BY16CS045 | Madhusudhan K M                    |   72.42 | 7.83 |  0   |
+| 1BY16CS046 | Manvi Mehar N                      |   77.83 | 8.42 |  0   |
+| 1BY16CS047 | Md Asad Ansari                     |    78.5 | 8.42 |  0   |
+| 1BY16CS048 | Medam Lokesh                       |   59.58 | 6.08 |  1   |
+| 1BY16CS049 | Medhini P                          |    71.5 | 7.58 |  0   |
+| 1BY16CS050 | Meenakshi Mishra                   |   85.17 | 9.0  |  0   |
+| 1BY16CS051 | Monisha P                          |   75.42 | 8.08 |  0   |
+| 1BY16CS052 | Nandha P V                         |   52.33 | 5.25 |  1   |
+| 1BY16CS053 | Nithish B                          |   86.58 | 9.42 |  0   |
+| 1BY16CS054 | Nitin Kewlani                      |   70.58 | 7.25 |  1   |
+| 1BY16CS055 | Palle Yamini                       |   63.42 | 6.75 |  0   |
+| 1BY16CS056 | Parth Jaiswal                      |   70.83 | 7.58 |  0   |
+| 1BY16CS057 | Pavithra J Patil                   |   62.33 | 6.92 |  0   |
+| 1BY16CS058 | Piyali Pal                         |    84.5 | 9.0  |  0   |
+| 1BY16CS059 | Piyush Agarwal                     |   71.25 | 7.67 |  0   |
+| 1BY16CS060 | Poorvika A Ithal                   |   57.58 | 5.5  |  1   |
+| 1BY16CS061 | Prajwal N                          |   46.17 | 4.0  |  4   |
+| 1BY16CS062 | Pranav Raikote                     |   74.08 | 7.92 |  0   |
+| 1BY16CS063 | Preena Darshini A                  |   75.17 | 8.08 |  0   |
+| 1BY16CS064 | Preethi                            |   77.75 | 8.25 |  0   |
+| 1BY16CS065 | Preethi G                          |    54.5 | 5.58 |  1   |
+| 1BY16CS066 | Rahul Gowda H M                    |   85.08 | 9.0  |  0   |
+| 1BY16CS067 | Rakshitha P R                      |    71.0 | 7.75 |  0   |
+| 1BY16CS069 | Ridwan Ul Haq                      |   56.17 | 5.58 |  1   |
+| 1BY16CS070 | Ritwik Raj                         |   79.08 | 8.5  |  0   |
+| 1BY16CS071 | Ruthwik S Gowda                    |   62.67 | 6.92 |  0   |
+| 1BY16CS072 | S Amnshuman                        |    46.0 | 4.0  |  4   |
+| 1BY16CS073 | Sabreesh Bhatt                     |   83.67 | 8.83 |  0   |
+| 1BY16CS074 | Shalette Natasha Dsouza            |   79.42 | 8.5  |  0   |
+| 1BY16CS075 | Sharath Ananth Hegde               |   74.08 | 7.83 |  0   |
+| 1BY16CS076 | Sheetal Thomas                     |    76.0 | 8.0  |  0   |
+| 1BY16CS077 | Shreyansh Shekhar Singh            |   25.58 | 0.83 |  6   |
+| 1BY16CS078 | Shruti R Potdar                    |   84.75 | 9.0  |  0   |
+| 1BY16CS079 | Shwetha D                          |   92.67 | 9.83 |  0   |
+| 1BY16CS080 | Simran Dhar                        |   57.83 | 6.42 |  0   |
+| 1BY16CS081 | Sourav Ray Chaudhuri               |   82.25 | 8.67 |  0   |
+| 1BY16CS082 | Sowmya S                           |   74.08 | 8.17 |  0   |
+| 1BY16CS083 | Spoorthy Madhushankar              |   73.42 | 7.83 |  0   |
+| 1BY16CS084 | Sudarshan V                        |   72.92 | 7.83 |  0   |
+| 1BY16CS085 | Suman R A                          |   70.33 | 7.75 |  1   |
+| 1BY16CS086 | Sumanth N C                        |   80.75 | 8.42 |  0   |
+| 1BY16CS087 | Syed Riyaz Ahamed                  |    8.83 | 0.0  |  10  |
+| 1BY16CS088 | Tarun                              |   82.67 | 8.58 |  0   |
+| 1BY16CS089 | Tejesh P                           |   64.42 | 7.08 |  1   |
+| 1BY16CS090 | Thulisikumar M                     |   40.42 | 3.0  |  3   |
+| 1BY16CS091 | V G Sumanth                        |   77.08 | 8.33 |  0   |
+| 1BY16CS092 | Varsha Vivek                       |   88.92 | 9.25 |  0   |
+| 1BY16CS093 | Vinay Kumar                        |   70.33 | 7.42 |  0   |
+| 1BY16CS094 | Vinayak O Hamsagar                 |   77.92 | 8.42 |  0   |
+| 1BY16CS095 | Yashas V                           |   38.67 | 3.0  |  7   |
+| 1BY16CS096 | Yashaswini Kulkarni                |   80.08 | 8.33 |  0   |
+| 1BY16CS097 | Abdul Rameez Pathan                |   61.75 | 6.67 |  0   |
+| 1BY16CS098 | Abigail Angela Gracias             |    79.5 | 8.5  |  0   |
+| 1BY16CS100 | Bashar Parvez                      |    50.0 | 4.42 |  2   |
+| 1BY16CS101 | Brijessh Kumar                     |   34.17 | 1.83 |  8   |
+| 1BY16CS102 | Owais Ahmed Khan                   |    56.5 | 6.25 |  0   |
+| 1BY16CS104 | Pratyush                           |   77.75 | 8.33 |  0   |
+| 1BY16CS105 | Priyanshu Singh                    |    31.5 | 2.25 |  5   |
+| 1BY16CS106 | Rishit Bansal                      |   71.42 | 7.67 |  0   |
+| 1BY16CS107 | Sambedh Kandel                     |    65.5 | 6.25 |  1   |
+| 1BY16CS108 | Saurav Kumar Kha                   |   62.83 | 6.83 |  0   |
+| 1BY16CS109 | Sharanya Warrier                   |   84.33 | 8.92 |  0   |
+| 1BY16EC001 | Aayushi Singhvi                    |    60.0 | 6.58 |  0   |
+| 1BY16EC002 | Abhinandini H R                    |   87.58 | 9.17 |  0   |
+| 1BY16EC003 | Abhishek B Handral                 |   52.42 | 5.08 |  5   |
+| 1BY16EC004 | Achutha Poorna Sri                 |   63.25 | 6.67 |  1   |
+| 1BY16EC005 | Adhya Rao                          |   90.42 | 9.5  |  0   |
+| 1BY16EC006 | Aditya N Rao                       |    84.0 | 9.0  |  0   |
+| 1BY16EC007 | Aditya Narayan                     |   82.58 | 8.92 |  0   |
+| 1BY16EC008 | Akash Ashok Patil                  |   74.58 | 8.0  |  0   |
+| 1BY16EC009 | Akash S M U                        |    80.5 | 8.83 |  0   |
+| 1BY16EC010 | Ambruth K                          |   48.67 | 4.92 |  2   |
+| 1BY16EC011 | Ananth S Bhat                      |   80.42 | 8.33 |  0   |
+| 1BY16EC012 | Anisha Lakshmi G R                 |   83.58 | 8.92 |  0   |
+| 1BY16EC013 | Anjali U Patil                     |   77.25 | 8.25 |  0   |
+| 1BY16EC014 | Anubhav                            |   70.75 | 7.42 |  0   |
+| 1BY16EC015 | Anubhav Mehrotra                   |   69.83 | 7.42 |  0   |
+| 1BY16EC016 | Appannagari Saivikas Reddy         |   40.08 | 3.0  |  6   |
+| 1BY16EC017 | Ayush Kumar                        |   57.33 | 5.67 |  1   |
+| 1BY16EC018 | Bhupendar Yadav                    |    58.0 | 6.58 |  0   |
+| 1BY16EC019 | Chandan S                          |   65.75 | 7.08 |  0   |
+| 1BY16EC020 | Chandni Patodia                    |   85.42 | 9.0  |  0   |
+| 1BY16EC021 | Darshan B J                        |    83.0 | 8.83 |  0   |
+| 1BY16EC022 | Deepak Kumar B                     |   77.08 | 8.0  |  0   |
+| 1BY16EC023 | Deva Kishore E                     |   72.58 | 7.92 |  0   |
+| 1BY16EC024 | Devarasetty Sai Anudeep            |   58.08 | 6.5  |  0   |
+| 1BY16EC025 | Dheeraj S Shekar                   |   51.58 | 4.5  |  2   |
+| 1BY16EC026 | Dilip Kumar G                      |   66.25 | 7.17 |  0   |
+| 1BY16EC027 | G K Chaithanya Krishna             |   86.67 | 9.08 |  0   |
+| 1BY16EC028 | G Niharaj                          |   71.75 | 7.58 |  0   |
+| 1BY16EC029 | G R Meghana                        |    76.0 | 8.08 |  0   |
+| 1BY16EC030 | Gitansh Lalpuria                   |    55.5 | 6.08 |  0   |
+| 1BY16EC031 | Goli Nibhasya                      |   83.67 | 8.75 |  0   |
+| 1BY16EC032 | Harshil Y K                        |   77.17 | 8.17 |  0   |
+| 1BY16EC033 | Harshita V M                       |   94.83 | 9.83 |  0   |
+| 1BY16EC034 | Harshitha H S                      |   73.92 | 7.92 |  0   |
+| 1BY16EC035 | Himashree P                        |   68.33 | 7.25 |  0   |
+| 1BY16EC036 | Kari Tejasri                       |   79.67 | 8.5  |  0   |
+| 1BY16EC037 | Karthik P                          |   77.42 | 8.25 |  0   |
+| 1BY16EC038 | Keshava Varma N S                  |   80.67 | 8.75 |  0   |
+| 1BY16EC039 | Khaji Syed Sarhan                  |   35.92 | 2.5  |  4   |
+| 1BY16EC040 | Khatheejal Yasmin M                |    81.5 | 8.75 |  0   |
+| 1BY16EC041 | Krishan Bajpai                     |   60.17 | 6.58 |  0   |
+| 1BY16EC042 | Krupa J Reddy                      |   65.33 | 7.17 |  0   |
+| 1BY16EC043 | L Shyla                            |    76.0 | 8.08 |  0   |
+| 1BY16EC044 | Latha Shree G                      |   64.58 | 7.0  |  0   |
+| 1BY16EC045 | Leelavani N                        |   76.83 | 8.17 |  0   |
+| 1BY16EC046 | Likith Rahul K                     |   81.92 | 8.92 |  0   |
+| 1BY16EC047 | Mahesh B                           |   73.33 | 7.92 |  0   |
+| 1BY16EC048 | Manoj Kumar V                      |    77.5 | 8.25 |  0   |
+| 1BY16EC049 | Manthan Mishra                     |   41.92 | 3.75 |  6   |
+| 1BY16EC051 | Mummeneni Vamsikrishna             |   78.08 | 8.42 |  0   |
+| 1BY16EC052 | Nagabindu R                        |   71.42 | 7.67 |  0   |
+| 1BY16EC053 | Nallagatla Venkata Narasimha Akhil |    58.5 | 6.33 |  0   |
+| 1BY16EC054 | Narayana M Hegde                   |   82.42 | 8.75 |  0   |
+| 1BY16EC055 | Neel Saroj M S                     |   35.08 | 2.58 |  4   |
+| 1BY16EC056 | Nimish Gireesh                     |    72.0 | 8.0  |  0   |
+| 1BY16EC057 | Nithin S                           |   73.67 | 7.92 |  0   |
+| 1BY16EC058 | P Harshavardhan Reddy              |   51.67 | 5.75 |  0   |
+| 1BY16EC059 | Padmashree B V                     |    52.5 | 5.92 |  1   |
+| 1BY16EC060 | Pavan M Reddy                      |    71.0 | 7.67 |  0   |
+| 1BY16EC061 | Prakriti Panja                     |   86.58 | 9.0  |  0   |
+| 1BY16EC063 | Preethi Muniraju                   |   74.58 | 8.0  |  0   |
+| 1BY16EC064 | Prem Kumar M                       |   46.92 | 4.75 |  1   |
+| 1BY16EC065 | Pucha Sai Virinchi                 |   71.75 | 7.92 |  0   |
+| 1BY16EC066 | Radhika N                          |   77.25 | 8.08 |  0   |
+| 1BY16EC067 | Rakshitha K                        |    55.0 | 6.25 |  2   |
+| 1BY16EC068 | Robin Raj                          |   59.17 | 6.58 |  0   |
+| 1BY16EC069 | Sachith B K                        |   56.92 | 6.17 |  0   |
+| 1BY16EC070 | Sai Krishna L                      |    67.5 | 7.0  |  2   |
+| 1BY16EC071 | Sanjana B A                        |   73.83 | 7.92 |  0   |
+| 1BY16EC072 | Sanketh G                          |    37.5 | 2.5  |  7   |
+| 1BY16EC073 | Satyam Shukla                      |    81.5 | 8.75 |  0   |
+| 1BY16EC074 | Saxena Akshit                      |   79.08 | 8.5  |  0   |
+| 1BY16EC075 | Shilpashree N                      |   81.58 | 8.83 |  0   |
+| 1BY16EC077 | Shravanth S B                      |   73.58 | 7.92 |  0   |
+| 1BY16EC078 | Shreya Jingade D                   |   57.33 | 6.5  |  0   |
+| 1BY16EC079 | Shreyas H Gowda                    |    33.5 | 1.92 |  8   |
+| 1BY16EC080 | Shriya Kolluru                     |   71.42 | 7.67 |  0   |
+| 1BY16EC081 | Sonal Prabhu                       |   75.67 | 7.83 |  0   |
+| 1BY16EC082 | Stuthi K Bhat                      |   84.83 | 9.08 |  0   |
+| 1BY16EC083 | Stuti Bisht                        |   45.25 | 3.17 |  3   |
+| 1BY16EC084 | Suhas T G                          |   85.75 | 9.33 |  0   |
+| 1BY16EC085 | Surabhi B Seshadri                 |   77.17 | 8.25 |  0   |
+| 1BY16EC086 | Swaraj S                           |   69.25 | 7.5  |  0   |
+| 1BY16EC087 | V Sashank Reddy                    |   77.33 | 8.33 |  0   |
+| 1BY16EC088 | Vamshi Krishna R                   |    88.5 | 9.42 |  0   |
+| 1BY16EC089 | Varsha Ramesh                      |   41.17 | 3.67 |  3   |
+| 1BY16EC090 | Vinay K N                          |   52.83 | 5.08 |  1   |
+| 1BY16EC091 | Vipul Kumar                        |   81.17 | 8.83 |  0   |
+| 1BY16EC092 | Vishal Golai                       |   76.58 | 8.33 |  0   |
+| 1BY16EC093 | Yeshwanth B Preetham               |   40.25 | 3.0  |  4   |
+| 1BY16EC094 | Nagashree H M                      |    62.0 | 6.25 |  1   |
+| 1BY16EC095 | Abhinav Amit                       |    45.5 | 4.58 |  3   |
+| 1BY16EC096 | Ayush Raj                          |   51.83 | 5.25 |  1   |
+| 1BY16EC097 | Karuna Nidhana Tiwari              |   45.58 | 3.25 |  3   |
+| 1BY16EC098 | Mehul Verma                        |   55.33 | 6.0  |  0   |
+| 1BY16EC101 | Rohit Raj                          |   54.83 | 5.5  |  1   |
+| 1BY16EC102 | Sravya Bogadapati                  |   42.83 | 3.75 |  6   |
+| 1BY16EC103 | Sushil Kumar                       |   64.33 | 7.08 |  0   |
+| 1BY16TE001 | A Nishan Bopanna                   |    44.5 | 3.92 |  2   |
+| 1BY16TE002 | Abhilash Kumar                     |   21.58 | 0.58 |  10  |
+| 1BY16TE003 | Aditya Singh                       |   31.75 | 2.17 |  8   |
+| 1BY16TE004 | Aditya V Kulkarni                  |    71.5 | 7.92 |  0   |
+| 1BY16TE005 | Advaith N Aithal                   |   35.92 | 1.25 |  6   |
+| 1BY16TE006 | Aishwarya Rao                      |    51.0 | 5.67 |  0   |
+| 1BY16TE007 | Aishwarya V                        |   74.08 | 8.0  |  0   |
+| 1BY16TE008 | Amrutha  A                         |   60.67 | 6.67 |  0   |
+| 1BY16TE009 | Archana Arun                       |   79.67 | 8.67 |  0   |
+| 1BY16TE010 | Bharath Kumar S                    |    72.5 | 8.0  |  0   |
+| 1BY16TE011 | Chethana C                         |   73.08 | 7.75 |  0   |
+| 1BY16TE012 | Dinakar S                          |    45.5 | 3.17 |  5   |
+| 1BY16TE013 | Gagana J                           |   64.08 | 7.08 |  0   |
+| 1BY16TE016 | Hemanth G                          |   68.08 | 7.5  |  0   |
+| 1BY16TE017 | Jaspreet Singh Dua                 |   11.83 | 0.0  |  8   |
+| 1BY16TE018 | Jayashree N                        |   70.08 | 7.58 |  0   |
+| 1BY16TE019 | Kritika Sharma                     |   75.67 | 8.08 |  0   |
+| 1BY16TE020 | Lekhya Sindura N                   |   54.67 | 4.67 |  2   |
+| 1BY16TE021 | M Tanush                           |   22.33 | 0.0  |  11  |
+| 1BY16TE022 | Madhushree M                       |    61.5 | 6.83 |  0   |
+| 1BY16TE023 | Mahima Rajendra Dhingreja          |   63.75 | 6.83 |  0   |
+| 1BY16TE024 | Manasa M                           |   82.42 | 8.83 |  0   |
+| 1BY16TE025 | Mani Ratna Monu                    |   57.92 | 6.17 |  2   |
+| 1BY16TE026 | Manjunath U                        |    69.0 | 7.5  |  0   |
+| 1BY16TE027 | Manohar D J                        |   62.58 | 6.75 |  0   |
+| 1BY16TE028 | N Janani                           |   75.83 | 8.17 |  0   |
+| 1BY16TE029 | Neha R                             |   92.83 | 9.75 |  0   |
+| 1BY16TE030 | Nischitha G V                      |   71.92 | 7.83 |  0   |
+| 1BY16TE031 | Nishit Rathi                       |   64.08 | 6.92 |  0   |
+| 1BY16TE032 | Pooja Malge                        |    42.0 | 3.33 |  7   |
+| 1BY16TE033 | Prajwal P S                        |   59.83 | 6.75 |  0   |
+| 1BY16TE034 | Prajwala K Handa                   |   37.33 | 2.17 |  7   |
+| 1BY16TE035 | Prasanna Kumar                     |   63.33 | 6.92 |  0   |
+| 1BY16TE036 | Prasunn                            |   49.67 | 4.33 |  3   |
+| 1BY16TE037 | R Namrata                          |   66.75 | 7.25 |  0   |
+| 1BY16TE038 | Raghav K K                         |   77.83 | 8.42 |  0   |
+| 1BY16TE039 | Rashmi Dhananjaya Shastri          |   57.83 | 6.5  |  0   |
+| 1BY16TE040 | S Md Yasin Faisal                  |   70.25 | 7.33 |  0   |
+| 1BY16TE041 | Samhitha C S                       |   69.92 | 7.5  |  0   |
+| 1BY16TE042 | Samruddhi Patil                    |    54.5 | 4.58 |  3   |
+| 1BY16TE043 | Saniya Afreen                      |    55.5 | 5.5  |  1   |
+| 1BY16TE044 | Sanket M Kavatekar                 |   64.42 | 7.0  |  0   |
+| 1BY16TE045 | Shashank Srinivas Kathavate        |   83.67 | 9.0  |  0   |
+| 1BY16TE046 | Sourav Karthikeyan                 |    69.0 | 7.25 |  0   |
+| 1BY16TE047 | Spoorthi H Shetty                  |   81.58 | 8.83 |  0   |
+| 1BY16TE048 | Sudha M                            |   66.92 | 7.08 |  0   |
+| 1BY16TE049 | Sudhanva Rao P N                   |   67.83 | 7.08 |  0   |
+| 1BY16TE050 | Suhag G Rai                        |   51.75 | 5.5  |  3   |
+| 1BY16TE051 | Sushmitha K R                      |   81.33 | 8.67 |  0   |
+| 1BY16TE052 | T P Nithin Kashiyap                |   62.42 | 6.75 |  0   |
+| 1BY16TE053 | Vaishnavi P S                      |   66.75 | 7.25 |  0   |
+| 1BY16TE054 | Vivek                              |    88.0 | 9.33 |  0   |
+| 1BY16TE055 | Yash Khanna                        |   57.33 | 6.42 |  0   |
+| 1BY16TE056 | Gaurav Kumar                       |   45.08 | 3.08 |  5   |
+| 1BY16TE057 | Saurabh                            |   60.75 | 6.58 |  0   |
+| 1BY16CV001 | A B Raghavendra                    |   51.08 | 4.92 |  1   |
+| 1BY16CV002 | Aamir Ishaque                      |   34.25 | 1.92 |  8   |
+| 1BY16CV003 | Adarsh R N                         |    82.0 | 8.92 |  0   |
+| 1BY16CV004 | Akarsh C U                         |   60.25 | 6.58 |  0   |
+| 1BY16CV005 | Akash K                            |   17.33 | 0.58 |  11  |
+| 1BY16CV006 | Akshitha C M                       |   52.33 | 5.42 |  1   |
+| 1BY16CV007 | Amit Kumar Rai                     |   60.33 | 6.58 |  0   |
+| 1BY16CV008 | Avinash Nair                       |   72.33 | 7.67 |  0   |
+| 1BY16CV009 | Bhuvanesh G                        |    52.0 | 4.75 |  2   |
+| 1BY16CV010 | Charana G B                        |    47.0 | 4.25 |  2   |
+| 1BY16CV011 | Chethan M S                        |   60.33 | 6.58 |  0   |
+| 1BY16CV012 | Chirag R                           |   54.67 | 6.08 |  0   |
+| 1BY16CV013 | Danish Ahmad Bhat                  |   74.42 | 8.0  |  0   |
+| 1BY16CV014 | Deeksha B                          |   73.08 | 7.92 |  0   |
+| 1BY16CV015 | Deeksha K Shetty                   |    72.5 | 7.83 |  0   |
+| 1BY16CV016 | Dhanuja S                          |    58.0 | 6.5  |  0   |
+| 1BY16CV019 | G Muralidhar                       |   54.92 | 5.33 |  1   |
+| 1BY16CV020 | Hari Prasad C M                    |   49.58 | 4.83 |  2   |
+| 1BY16CV021 | Harsh Narayan                      |    41.5 | 2.25 |  5   |
+| 1BY16CV022 | Harshitha R                        |   30.25 | 1.33 |  9   |
+| 1BY16CV023 | K Chandana                         |   70.75 | 7.75 |  0   |
+| 1BY16CV024 | Kalpesh M Pande                    |   53.42 | 5.75 |  0   |
+| 1BY16CV025 | Kavya S                            |    68.0 | 7.42 |  0   |
+| 1BY16CV026 | Khuraijam Dennis                   |   71.25 | 7.58 |  0   |
+| 1BY16CV027 | Kusampudi Sai Greeshma             |   57.75 | 5.75 |  1   |
+| 1BY16CV028 | M Apoorva                          |   65.92 | 7.08 |  0   |
+| 1BY16CV029 | Madhu D L                          |    64.5 | 6.92 |  1   |
+| 1BY16CV030 | Mangal Kumar R S                   |   38.08 | 2.17 |  8   |
+| 1BY16CV031 | Manish Kumar                       |   23.08 | 0.58 |  12  |
+| 1BY16CV032 | Mohammed Akram                     |   45.25 | 3.0  |  4   |
+| 1BY16CV033 | Mohammed Ghouse C                  |    51.5 | 4.5  |  2   |
+| 1BY16CV034 | Mohammed Safwaan                   |   73.08 | 7.83 |  0   |
+| 1BY16CV035 | Murtaza Rangoonawala               |   25.92 | 2.42 |  9   |
+| 1BY16CV036 | Nandan M                           |   67.75 | 7.17 |  0   |
+| 1BY16CV037 | Nihal Ahmed                        |   68.25 | 7.58 |  0   |
+| 1BY16CV038 | Nooraien Hashmie                   |   65.33 | 7.08 |  0   |
+| 1BY16CV039 | P N Shreya                         |   52.58 | 4.58 |  3   |
+| 1BY16CV040 | Prakruthi G S                      |   51.42 | 5.08 |  2   |
+| 1BY16CV041 | Priya Ramadas Gunagi               |   74.75 | 8.0  |  0   |
+| 1BY16CV042 | Rahul B C                          |   20.83 | 0.67 |  12  |
+| 1BY16CV043 | Rakesh J Suthar                    |   55.67 | 6.17 |  0   |
+| 1BY16CV044 | Rakesh M                           |   73.67 | 8.0  |  0   |
+| 1BY16CV045 | Rakshitha S                        |    49.0 | 3.42 |  4   |
+| 1BY16CV046 | Ritik Kithania                     |    28.5 | 0.83 |  7   |
+| 1BY16CV047 | Riyyan Khan                        |    50.0 | 5.67 |  0   |
+| 1BY16CV048 | Roopak Balu                        |   55.67 | 6.25 |  0   |
+| 1BY16CV049 | S Dharshitha                       |    35.5 | 1.92 |  7   |
+| 1BY16CV050 | S Uday Bhargav                     |   44.17 | 3.83 |  4   |
+| 1BY16CV051 | Sahil Shashikar Shetty             |   65.33 | 7.17 |  0   |
+| 1BY16CV052 | Sandeep                            |   35.92 | 2.0  |  5   |
+| 1BY16CV053 | Saqib Hassan Gojri                 |   71.83 | 7.75 |  0   |
+| 1BY16CV054 | Shashank S                         |   30.58 | 2.0  |  9   |
+| 1BY16CV055 | Shashidhar Gopal Patgar            |   42.08 | 3.67 |  2   |
+| 1BY16CV056 | Shivaprakash                       |   52.25 | 4.42 |  4   |
+| 1BY16CV057 | Shrinivas                          |   45.67 | 3.17 |  3   |
+| 1BY16CV058 | Siddharth Raj Bhupal               |   31.75 | 1.17 |  6   |
+| 1BY16CV059 | Soumya Dasgupta                    |   66.33 | 7.17 |  0   |
+| 1BY16CV060 | Sushma M                           |   68.08 | 7.42 |  0   |
+| 1BY16CV061 | Trishit Paran Bhattacharyya        |   52.58 | 6.08 |  0   |
+| 1BY16CV062 | Vaishnavi                          |   51.08 | 4.33 |  2   |
+| 1BY16CV063 | Vijay K                            |   35.17 | 2.0  |  6   |
+| 1BY16CV064 | Vijeyta S                          |   67.33 | 7.25 |  0   |
+| 1BY16CV065 | Zubeni Ngullie                     |   61.17 | 6.5  |  0   |
+| 1BY16CV066 | Hikmat Pradhan                     |   68.75 | 7.5  |  0   |
+| 1BY16CV068 | Md Faizanur Rahman                 |   46.83 | 4.17 |  4   |
+| 1BY16CV069 | Nabin Bhattarai                    |   69.92 | 7.5  |  0   |
+| 1BY16CV070 | Prabin Regmi                       |   72.92 | 7.67 |  0   |
+| 1BY16CV071 | Rahul Abhishek                     |    76.0 | 8.0  |  0   |
+| 1BY16CV072 | Ritesh Jha                         |   28.58 | 1.75 |  7   |
+| 1BY16CV073 | Tirth Sah                          |   60.42 | 6.58 |  0   |
+| 1BY16CV074 | Zohaib Mohamed Umair               |   55.83 | 6.08 |  0   |
+| 1BY16EE001 | Aafaq Altaf Wani                   |   48.67 | 4.25 |  2   |
+| 1BY16EE002 | Abhijit Kumar                      |    86.5 | 9.08 |  0   |
+| 1BY16EE003 | Abhishek Biswas                    |   58.67 | 6.42 |  0   |
+| 1BY16EE004 | Aditi D A                          |   77.67 | 8.42 |  0   |
+| 1BY16EE005 | Akansha P                          |   37.67 | 1.67 |  8   |
+| 1BY16EE006 | Anamika Basu                       |   44.17 | 4.58 |  5   |
+| 1BY16EE007 | Anirudh Aravind                    |   75.83 | 8.25 |  0   |
+| 1BY16EE008 | Anirudha K S                       |   58.42 | 6.5  |  0   |
+| 1BY16EE009 | Awati Spandana                     |    75.0 | 8.08 |  0   |
+| 1BY16EE010 | B Ashwini                          |   71.42 | 7.67 |  0   |
+| 1BY16EE011 | B Manjunath                        |   80.75 | 8.75 |  0   |
+| 1BY16EE012 | Balaji Subramanya M K              |   71.92 | 7.75 |  0   |
+| 1BY16EE013 | Bhargav Reddy B                    |   66.25 | 7.25 |  0   |
+| 1BY16EE014 | Bhaskar Raju A V                   |   47.58 | 4.08 |  3   |
+| 1BY16EE015 | Chaithra B C                       |   65.67 | 7.0  |  0   |
+| 1BY16EE016 | Deepa M S                          |    80.5 | 8.58 |  0   |
+| 1BY16EE017 | Entha Rohith                       |   72.17 | 7.83 |  0   |
+| 1BY16EE018 | G Sankesh Bothra                   |    78.0 | 8.25 |  0   |
+| 1BY16EE019 | Gautama Bharadwaj                  |   76.92 | 8.33 |  0   |
+| 1BY16EE020 | Govardhan                          |   58.75 | 6.25 |  0   |
+| 1BY16EE021 | H Vishal                           |   37.08 | 2.33 |  5   |
+| 1BY16EE022 | Harikrishnan U                     |   80.92 | 8.58 |  0   |
+| 1BY16EE023 | Harshit Vaish                      |   73.92 | 7.92 |  0   |
+| 1BY16EE024 | Kacharla Balasai Nikhil            |    60.0 | 6.58 |  0   |
+| 1BY16EE025 | Kalpit Chaturvedi                  |   50.42 | 4.33 |  2   |
+| 1BY16EE026 | Kaushik Gowda H N                  |   76.67 | 8.42 |  0   |
+| 1BY16EE027 | Kavya P                            |   79.75 | 8.67 |  0   |
+| 1BY16EE028 | Keerthi Gururaj G S                |   82.17 | 8.58 |  0   |
+| 1BY16EE029 | Kislay Sinha                       |   34.25 | 1.17 |  5   |
+| 1BY16EE030 | Kushgra Dhawan                     |   78.42 | 8.42 |  0   |
+| 1BY16EE031 | Madhu Chandra M                    |   47.33 | 4.08 |  2   |
+| 1BY16EE032 | Madhu Sudhan H K                   |   67.58 | 7.33 |  0   |
+| 1BY16EE033 | Mallari Suresh                     |    44.0 | 4.08 |  3   |
+| 1BY16EE034 | Mohammad Adil Ansari               |    65.0 | 7.08 |  0   |
+| 1BY16EE035 | Navedya Ojha                       |   77.83 | 8.33 |  0   |
+| 1BY16EE036 | Nikita Chauhan                     |   68.08 | 7.42 |  0   |
+| 1BY16EE037 | Nisha Chaurasia                    |    53.0 | 4.58 |  2   |
+| 1BY16EE039 | Pulkit Kumar Dagur                 |    7.92 | 0.0  |  15  |
+| 1BY16EE040 | Rakesh M                           |   11.42 | 0.0  |  14  |
+| 1BY16EE041 | Rohan Chinni C L                   |   72.92 | 7.83 |  0   |
+| 1BY16EE042 | Ruchitha D                         |   63.08 | 7.0  |  0   |
+| 1BY16EE043 | Rupansha Khare                     |    49.5 | 4.33 |  3   |
+| 1BY16EE044 | Sadiq Hasan Abbasi                 |   70.42 | 7.67 |  0   |
+| 1BY16EE045 | Sarthak Gupta                      |   70.92 | 7.67 |  0   |
+| 1BY16EE046 | Saumya Mishra                      |   64.58 | 6.92 |  0   |
+| 1BY16EE047 | Sayalee Sanjay Kahandal            |   85.17 | 9.08 |  0   |
+| 1BY16EE048 | Sesha Gopal S                      |   61.33 | 6.58 |  0   |
+| 1BY16EE049 | Shiva Prasad K R                   |    69.5 | 7.67 |  0   |
+| 1BY16EE050 | Sinchana Gowda                     |   58.33 | 6.0  |  1   |
+| 1BY16EE051 | Sinchana S                         |   86.17 | 9.17 |  0   |
+| 1BY16EE052 | Sompalli Sanketh                   |    79.5 | 8.5  |  0   |
+| 1BY16EE053 | Srijan Mishra                      |   70.67 | 7.58 |  0   |
+| 1BY16EE054 | Suhana Khanum N                    |   71.92 | 7.67 |  0   |
+| 1BY16EE055 | Sujata                             |   50.08 | 5.42 |  0   |
+| 1BY16EE056 | Swati                              |   74.92 | 8.08 |  0   |
+| 1BY16EE057 | Syed Imtiaz Ali                    |   37.17 | 2.25 |  5   |
+| 1BY16EE058 | Vaishnovi H                        |    71.0 | 7.67 |  0   |
+| 1BY16EE059 | Venu Bhargav Valluri               |   67.17 | 7.33 |  0   |
+| 1BY16EE060 | Vinod                              |   62.42 | 6.92 |  0   |
+| 1BY16EE062 | Abhishek Kumar  Yadav              |   55.33 | 6.0  |  0   |
+| 1BY16EE063 | Deepak Singh                       |   66.17 | 7.17 |  0   |
+| 1BY16EE064 | Ruchita Yadav                      |   45.42 | 4.08 |  3   |
+| 1BY16IS072 | Md Ashique Alam                    |   50.58 | 4.25 |  2   |
+| 1BY16IS065 | Bijen Maharjan                     |   59.58 | 5.75 |  1   |
+| 1BY16IS001 | Abhijit Baruah                     |    73.5 | 8.0  |  0   |
+| 1BY16IS002 | Adithya S Vasisth                  |   77.83 | 8.33 |  0   |
+| 1BY16IS003 | Agneya P Koushik                   |   77.42 | 8.33 |  0   |
+| 1BY16IS004 | Akarshan Kumar                     |   77.08 | 8.08 |  0   |
+| 1BY16IS005 | Alapati Naga Haneesh               |   72.92 | 7.67 |  0   |
++------------+------------------------------------+---------+------+------+

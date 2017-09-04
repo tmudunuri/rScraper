@@ -75,7 +75,7 @@ def getd(url):
     scodes = re.findall("[0-9]{1,2}([A-Z]+[0-9]{1,})", sscodes)
 
     sub = re.findall("([0-9]{2,}[A-Z]{3,}[0-9]{2,}.+[PF]\s{5,}?)",text)
-    mks = re.findall("[0-9]{1,2} [0-9]{1,2} [0-9]{1,3} [PFA]",text)
+    mks = re.findall("[0-9]{1,2} [0-9]{1,2} [0-9]{1,3} [PFAX]",text)
     mks = ' '.join(mks)
     mks = mks.split()
 
@@ -188,44 +188,47 @@ yr = input('Enter Batch year ')
 #br = input('Enter Branch ID ')
 ran = int(input('Enter starting USN '))
 #filename = 'test.sqlite'
-filename = '1' + ci + yr + '.sqlite'
+#filename = '1' + ci + yr + '.sqlite'
 
 brs = list()
 brs = ('cs', 'is', 'ec', 'me', 'cv', 'te', 'ee', 'bt', 'im')
+cols = list()
+cols = ('bi', 'mv', 'cr', 'ay', 'rn', 'va', 'pm', 'at', 'st')
 k = ran
 flag = 0
 
-for br in brs:
+for col in cols:
+    filename = '1' + col + yr + '.sqlite'
+    for br in brs:
+        while k <= 180:
 
-    while k <= 180:
-
-        if k < 10:
-            j = '00' + str(k)
-        elif k < 100:
-            j = '0' + str(k)
-        else:
-            j = str(k)
-
-        url = 'http://results.vtu.ac.in/cbcs_17/result_page.php?usn=1' + ci + yr + br + j
-        k += 1
-
-        try :
-            getd(url)
-            flag = 0
-
-        except KeyboardInterrupt:
-            print('Exiting')
-            break
-
-        except :
-            print('Unable to retrieve.\n')
-            flag += 1
-            if flag > 4: #Max number of invalid requests
-                print('No more USNs. Exiting.')
-                break
+            if k < 10:
+                j = '00' + str(k)
+            elif k < 100:
+                j = '0' + str(k)
             else:
-                continue
-    k = 1
+                j = str(k)
+
+            url = 'http://results.vtu.ac.in/cbcs_17/result_page.php?usn=1' + col + yr + br + j
+            k += 1
+
+            try :
+                getd(url)
+                flag = 0
+
+            except KeyboardInterrupt:
+                print('Exiting')
+                break
+
+            except :
+                print('Unable to retrieve.\n')
+                flag += 1
+                if flag > 4: #Max number of invalid requests
+                    print('No more USNs. Exiting.')
+                    break
+                else:
+                    continue
+        k = 1
 
 from exp import expwrite #Generates txt database
 table = 'Sem2'
