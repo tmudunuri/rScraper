@@ -185,41 +185,47 @@ import ssl
 
 ci = input('Enter College ID ')
 yr = input('Enter Batch year ')
-br = input('Enter Branch ID ')
+#br = input('Enter Branch ID ')
 ran = int(input('Enter starting USN '))
 #filename = 'test.sqlite'
 filename = '1' + ci + yr + '.sqlite'
 
+brs = list()
+brs = ('cs', 'is', 'ec', 'me', 'cv', 'te', 'ee', 'bt', 'im')
 k = ran
 flag = 0
-while k <= 180:
 
-    if k < 10:
-        j = '00' + str(k)
-    elif k < 100:
-        j = '0' + str(k)
-    else:
-        j = str(k)
+for br in brs:
 
-    url = 'http://results.vtu.ac.in/cbcs_17/result_page.php?usn=1' + ci + yr + br + j
-    k += 1
+    while k <= 180:
 
-    try :
-        getd(url)
-        flag = 0
-
-    except KeyboardInterrupt:
-        print('Exiting')
-        break
-
-    except :
-        print('Unable to retrieve.\n')
-        flag += 1
-        if flag > 4: #Max number of invalid requests
-            print('No more USNs. Exiting.')
-            break
+        if k < 10:
+            j = '00' + str(k)
+        elif k < 100:
+            j = '0' + str(k)
         else:
-            continue
+            j = str(k)
+
+        url = 'http://results.vtu.ac.in/cbcs_17/result_page.php?usn=1' + ci + yr + br + j
+        k += 1
+
+        try :
+            getd(url)
+            flag = 0
+
+        except KeyboardInterrupt:
+            print('Exiting')
+            break
+
+        except :
+            print('Unable to retrieve.\n')
+            flag += 1
+            if flag > 4: #Max number of invalid requests
+                print('No more USNs. Exiting.')
+                break
+            else:
+                continue
+    k = 1
 
 from exp import expwrite #Generates txt database
 table = 'Sem2'
